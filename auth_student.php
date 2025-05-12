@@ -1,0 +1,1 @@
+<?php session_start(); if($_SESSION['role']!='student') die('Unauthorized'); ?>

@@ -1,0 +1,1 @@
+<?php session_start(); include 'auth/check_role.php'; ?>

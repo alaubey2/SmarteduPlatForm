@@ -1,0 +1,1 @@
+<?php include '../includes/auth_teacher.php'; echo 'لوحة تحكم المعلم'; ?>
